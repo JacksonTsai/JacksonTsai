@@ -8,8 +8,8 @@
 
 <p>
   <a href="https://github.com/AVS1508">
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacksonTsai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amananku26&theme=algolia&hide_border=true&line_height=27&width=27"/>
+<!--     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacksonTsai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amananku26&theme=algolia&hide_border=true&line_height=27&width=27"/>
     <br />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JacksonTsai&layout=compact&langs_count=8&theme=algolia"/>
   </a>
