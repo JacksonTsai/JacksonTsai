@@ -1,8 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Jackson 👨‍💻
 
 
-- 🔭 I’m currently working on MOXA
-- 🌱 I’m currently learning Frontend framework
+- 👔 I’m currently working on MOXA
+- 📝 I’m currently learning Frontend framework
 
 ### ⚙️ &nbsp;GitHub Analytics
 
