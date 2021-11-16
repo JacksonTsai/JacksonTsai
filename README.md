@@ -15,7 +15,7 @@
   </a>
 </p>
 
-### Now Playing 🎧
+### 🎧 Now Playing 
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/41ggdqf8w6e98hn8z038oy5ga)
 <br/>
