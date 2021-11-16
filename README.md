@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on MOXA
 - 🌱 I’m currently learning Frontend framework
 
-### ⚙️ GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p>
   <a href="https://github.com/JacksonTsai">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-### 🎧 Now Playing 
+### 🎧 &nbsp;Now Playing 
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/41ggdqf8w6e98hn8z038oy5ga)
 <br/>
