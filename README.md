@@ -26,6 +26,9 @@
   </p>
 </details>
 
+### Profile Views
+<img src="https://profile-counter.glitch.me/jacksontsai/count.svg">
+
 ### 🎧 &nbsp;Now Playing 
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/41ggdqf8w6e98hn8z038oy5ga)
