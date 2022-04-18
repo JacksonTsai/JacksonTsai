@@ -2,7 +2,6 @@
 
 
 - 👔 I’m currently working on MOXA
-- 📝 I’m currently learning Frontend framework
 
 ### ⚙️ &nbsp;GitHub Analytics
 
